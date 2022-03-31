@@ -1,1 +1,93 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angelí</title>
+    <link rel="stylesheet" href="estiloss.css">
+</head>
+<body>
+<header>
+    <h1> Angelí</h1>
+   
+    <h2> Belleza y estilo</h2>
+    <nav>
+        <ul>
+            <li><a href="#Inicio">Inicio</a></li>
+            <li><a href="#Lo Nuevo">Lo nuevo</a></li>
+            <li><a href="#Productos de belleza">Productos de belleza</a></li>
+            <li><a href="#Maquillaje">Maquillaje</a></li>
+            <li><a href="#Regalos">Regalos</a></li>
+            <li><a href="#OnlyforMen">OnlyforMen</a></li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <article>
+        <h2 id="inicio">Inicio</h2>
+<p> “Cosméticos, Accesorios, Regalos y Mucho +” ... #angelifan #angelilover
+    #angelilapaz #frenteallila#apasosdelstadium. Encuéntranos en todas 
+    las redes como: @angelilapaz </p> 
+<img src="angeli1.jpg" style="width: 800px;;height: 500px;"> 
+<object data="" width="400" height="300"></object>
+</article>
+<article>
+        <h2 id="Lo Nuevo">Lo nuevo</h2>
+<p> Tenemos todo lo referido a rutinas de belleza, si es que buscas 
+    como cuidar tu piel, esta semana llegaron nuervos serums hidratantes para 
+    todo tipo de piel. Mixta, grasa o seca lo ideal son estos serums que ayudaran a que se hidrate tu piel </p> 
+<img src="serums.jfif" style="width: 300px;;height: 200px;"> 
+<img src="serum3.jfif" style="width: 300px;;height: 200px;"> 
+<img src="serum4.jfif" style="width: 300px;;height: 200px;"> 
+<img src="serum5.jpg" style="width: 300px;;height: 200px;"> 
+<img src="serum6.jfif" style="width: 300px;;height: 200px;"> 
 
+
+</article>
+<article>
+    <h2 id="Productos de belleza">Productos de belleza</h2>
+<p> Exiten rutinas para cada piel, en espacial con espinillas, aclaradoras
+    referentes a productos coreanos especializados en el tema: Deproce, Tailan, etc.  </p> 
+<img src="belleza1.jfif" style="width: 300px;;height: 200px;"> 
+<img src="belleza 2.jfif" style="width: 300px;;height: 200px;"> 
+<img src="belleza3.jfif" style="width: 300px;;height: 200px;">
+<img src="belleza4.png" style="width: 300px;;height: 200px;"> 
+<img src="belleza5.jfif" style="width: 300px;;height: 200px;"> 
+</article>
+<article>
+    <h2 id="Maquillaje">Maquillaje</h2>
+<p> Maquillaje de todo tipo de marcas, desde la mas leve cobertura a la fuerte para cubrir manchita
+    entre otras imperfecciones, corectores, contornos, rubores, correctores, sombras, etc </p> 
+<img src="maqui1.jfif" style="width: 350px;;height: 200px;"> 
+<img src="maqui2.jfif" style="width: 350px;;height: 200px;"> 
+<img src="maqui3.jfif" style="width: 350px;;height: 200px;">
+<img src="maqui4.jfif" style="width: 350px;;height: 200px;">
+<img src="maqui5.jfif" style="width: 350px;;height: 200px;">
+</article>
+<article>
+    <h2 id="Regalos">Regalos</h2>
+<p> Si quieres sorpender y a las personas especiales en tu vida
+    no olvides que tenemos los peluches de coleccion para todas las edades. </p> 
+<img src="nici1.jpg" style="width: 300px;;height: 200px;"> 
+<img src="nici2.jpg" style="width: 300px;;height: 200px;"> 
+<img src="nici3.jpg" style="width: 300px;;height: 200px;">
+<img src="nici4.jpg" style="width: 300px;;height: 200px;"> 
+</article>
+<article>
+    <h2 id="OnlyforMen">OnlyforMen</h2>
+<p> Para los varones de la casa, hay todo tipo de perfumes de las mejores Marcas 
+    en costos extraordinarios, como productos del cuidado de la piel.</p> 
+<img src="boy1.jfif" style="width: 300px;;height: 200px;"> 
+<img src="boy2.jfif" style="width: 300px;;height: 200px;"> 
+<img src="boy3.jfif" style="width: 300px;;height: 200px;">
+<img src="boy4.jfif" style="width: 300px;;height: 200px;"> 
+</article>
+</section>
+</body>
+<h3>Nuestras redes sociales</h3>
+<p><a href="https://www.instagram.com/angelilapaz/">Instagram</a></p>
+<p><a href="https://www.tiktok.com/@angelilapaz?fbclid=IwAR1e0Xt_nW6MTwxd9B8_8SLxSayxr-A3f-qwkjO14jnyJxVgHL3cewD2_1k">Tiktok</a></p>
+<p><a href="https://www.facebook.com/angelilapaz">Facebook</a></p>
+
+
+</html>
